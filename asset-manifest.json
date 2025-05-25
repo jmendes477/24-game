@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/24-game/static/css/main.e6c13ad2.css",
+    "main.js": "/24-game/static/js/main.40844497.js",
+    "static/js/453.b87d5e96.chunk.js": "/24-game/static/js/453.b87d5e96.chunk.js",
+    "index.html": "/24-game/index.html",
+    "main.e6c13ad2.css.map": "/24-game/static/css/main.e6c13ad2.css.map",
+    "main.40844497.js.map": "/24-game/static/js/main.40844497.js.map",
+    "453.b87d5e96.chunk.js.map": "/24-game/static/js/453.b87d5e96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.40844497.js"
+  ]
+}
